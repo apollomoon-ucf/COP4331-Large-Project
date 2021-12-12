@@ -15,7 +15,7 @@ The Team:
 - Eric Hartwell (Project Manager, Database, Frontend)
 - Delroy Jordan (Frontend)
 - Rayyan Haque (Frontend)
-- Brian Moon (API, API Documentation, Unit Testing)
+- Brian Moon (API, API Documentation, Unit Testing, README)
 - Keilvin Tran (API)
 - Taylor Laird (Mobile, Figma)
 - Shane Davis (Mobile)

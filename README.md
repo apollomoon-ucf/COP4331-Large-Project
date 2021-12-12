@@ -4,7 +4,7 @@ Team project for COP4331 (Processes for Object-Oriented Software Development) at
 
 As a team, we were tasked with creating a MERN stack application in six weeks. For our project, we selected to work with a personal trainer, CourtneyGenix, who needed an application to help them manage their clients.
 
-Our application gives personal trainers the ability to manage clients, create workouts and exercises, assign daily nutrition goals, and schedule workout plans on their client's calendar. A personal trainer's client can then log in to the app and view all of their workouts, exercixes, and goals.
+Our application gives personal trainers the ability to manage clients, create workouts and exercises, assign daily nutrition goals, and schedule workout plans on their client's calendar. A personal trainer's client can then log in to the app and view all of their workouts, exercises, and goals.
 
 Website Link: http://courtneygenix.herokuapp.com
 
